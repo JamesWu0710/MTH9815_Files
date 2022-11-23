@@ -31,8 +31,8 @@ int main() {
 	// good, a tree-like structure.
 
 	// remove is not done yet..
-	heap.remove(2);
-	heap.print();
-	heap.remove(1);
-	heap.print();
+	//heap.remove(2);
+	//heap.print();
+	//heap.remove(1);
+	//heap.print();
 }
